@@ -4,7 +4,7 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6">
           <div class="footer-about">
-            <a href="index.html" class="logo sitename">Day</a>
+            <a href="index.html" class="logo sitename">Afro Romcon</a>
             <div class="pt-3 footer-contact">
               <p>A108 Adam Street</p>
               <p>New York, NY 535022</p>
@@ -26,7 +26,7 @@
           <h4>Useful Links</h4>
           <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
+            <li><a href="#">About</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">Terms of service</a></li>
             <li><a href="#">Privacy policy</a></li>
@@ -37,7 +37,7 @@
 
     <div class="container mt-4 text-center copyright">
       <p>
-        © <span>Copyright</span> <strong class="px-1 sitename">Day</strong>
+        © <span>Copyright</span> <strong class="px-1 sitename">Afro Romcon</strong>
         <span>All Rights Reserved</span>
       </p>
       <div class="credits">
@@ -45,7 +45,7 @@
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Built by <a href="https://portfolio-pro-beta.vercel.app/">Alpha & Omega</a>
       </div>
     </div>
   </footer>
