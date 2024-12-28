@@ -22,8 +22,7 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 # Copy application files
 COPY . .
 
-# Install PHP dependencies
-RUN composer install --dev --optimize-autoloader
+
 
 # Install Node.js dependencies
 RUN npm install && npm run prod
