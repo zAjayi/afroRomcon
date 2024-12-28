@@ -6,16 +6,16 @@
       >
         <div class="contact-info d-flex align-items-center">
           <i class="bi bi-envelope d-flex align-items-center"
-            ><a href="mailto:contact@example.com">contact@example.com</a></i
+            ><a href="mailto:contact@example.com">Afro.romcon@gmail.com</a></i
           >
           <i class="bi bi-phone d-flex align-items-center ms-4"
-            ><span>+1 5589 55488 55</span></i
+            ><span>+234 810 019 0352</span></i
           >
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
           <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
           <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.instagram.com/afroromcon?igsh=MTZ3dDJkaHhma2VrYg==" class="instagram"><i class="bi bi-instagram"></i></a>
           <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
         </div>
       </div>
